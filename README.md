@@ -5,17 +5,17 @@ on the screen".
 
 Constraints
 ------------
-. Do not use named functions
+x Do not use named functions
 
-. Do not use a set interval function.
+x Do not use a set interval function.
 
-. Do not use recursion.
+x Do not use recursion.
 
-. Do not use IIFEs & named functions.
+x Do not use IIFEs & named functions.
 
-. Do not use looping.
+x Do not use looping.
 
-. Use call back hell to deploy the timer.
+x Use call back hell to deploy the timer.
 
-. All JavaScript codes should be in a script file named script. js which has to be
+x All JavaScript codes should be in a script file named script. js which has to be
 imported into your HTML page.
